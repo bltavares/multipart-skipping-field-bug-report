@@ -1,0 +1,8 @@
+[package]
+authors = ["Bruno Tavares <connect+github@bltavares.com>"]
+name = "bug-report"
+version = "0.1.0"
+
+[dependencies]
+hyper = "0.7.2"
+multipart = "0.4.0"
